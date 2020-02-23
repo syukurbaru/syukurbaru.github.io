@@ -101,9 +101,10 @@ section {
 }
 
 #about img{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
+    
 }
 
 h2 {
@@ -135,6 +136,11 @@ h2 {
     margin: 1px;
     float: right;
 
+}
+
+.content-about p{
+    font-size: 22px;
+    text-align: left;
 }
 
 .content-services {
@@ -230,3 +236,6 @@ textarea {
     margin: 4px 2px;
     cursor: pointer;
   }
+
+  
+  
